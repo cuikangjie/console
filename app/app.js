@@ -23,4 +23,4 @@
   console.log('|                                         mail: kin@cuikangjie.com                                   |');
   console.log('|                                                                                                    |');
   console.log();
-}))(window)
+})(window)
